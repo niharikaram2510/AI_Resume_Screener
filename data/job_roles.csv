@@ -1,0 +1,547 @@
+job_role,skill,category,importance
+Machine Learning Engineer,Python,Programming,High
+Machine Learning Engineer,Machine Learning,AI/ML,High
+Machine Learning Engineer,Deep Learning,AI/ML,High
+Machine Learning Engineer,TensorFlow,Framework,High
+Machine Learning Engineer,PyTorch,Framework,High
+Machine Learning Engineer,Scikit-learn,Framework,High
+Machine Learning Engineer,SQL,Database,Medium
+Machine Learning Engineer,Pandas,Data Science,Medium
+Machine Learning Engineer,NumPy,Data Science,Medium
+Machine Learning Engineer,Git,Tools,Medium
+Machine Learning Engineer,Docker,DevOps,Medium
+Machine Learning Engineer,AWS,Cloud,Low
+
+Data Scientist,Python,Programming,High
+Data Scientist,SQL,Database,High
+Data Scientist,Statistics,Mathematics,High
+Data Scientist,Machine Learning,AI/ML,High
+Data Scientist,Pandas,Data Science,High
+Data Scientist,NumPy,Data Science,High
+Data Scientist,Scikit-learn,Framework,High
+Data Scientist,Data Analysis,Data Science,High
+Data Scientist,Data Visualization,Data Science,Medium
+Data Scientist,TensorFlow,Framework,Medium
+Data Scientist,Power BI,Visualization,Medium
+Data Scientist,Tableau,Visualization,Medium
+
+Data Analyst,Python,Programming,High
+Data Analyst,SQL,Database,High
+Data Analyst,Excel,Tools,High
+Data Analyst,Statistics,Mathematics,High
+Data Analyst,Data Analysis,Data Science,High
+Data Analyst,Pandas,Data Science,High
+Data Analyst,Data Visualization,Data Science,High
+Data Analyst,Power BI,Visualization,High
+Data Analyst,Tableau,Visualization,Medium
+Data Analyst,NumPy,Data Science,Medium
+
+AI Engineer,Python,Programming,High
+AI Engineer,Artificial Intelligence,AI/ML,High
+AI Engineer,Machine Learning,AI/ML,High
+AI Engineer,Deep Learning,AI/ML,High
+AI Engineer,TensorFlow,Framework,High
+AI Engineer,PyTorch,Framework,High
+AI Engineer,Computer Vision,AI/ML,Medium
+AI Engineer,NLP,AI/ML,Medium
+AI Engineer,Git,Tools,Medium
+AI Engineer,Docker,DevOps,Medium
+AI Engineer,AWS,Cloud,Medium
+
+Deep Learning Engineer,Python,Programming,High
+Deep Learning Engineer,Deep Learning,AI/ML,High
+Deep Learning Engineer,Neural Networks,AI/ML,High
+Deep Learning Engineer,TensorFlow,Framework,High
+Deep Learning Engineer,PyTorch,Framework,High
+Deep Learning Engineer,Keras,Framework,Medium
+Deep Learning Engineer,Computer Vision,AI/ML,Medium
+Deep Learning Engineer,NLP,AI/ML,Medium
+Deep Learning Engineer,NumPy,Data Science,Medium
+Deep Learning Engineer,Git,Tools,Medium
+
+Computer Vision Engineer,Python,Programming,High
+Computer Vision Engineer,Computer Vision,AI/ML,High
+Computer Vision Engineer,Deep Learning,AI/ML,High
+Computer Vision Engineer,CNN,AI/ML,High
+Computer Vision Engineer,OpenCV,Framework,High
+Computer Vision Engineer,PyTorch,Framework,High
+Computer Vision Engineer,TensorFlow,Framework,Medium
+Computer Vision Engineer,Image Processing,AI/ML,High
+Computer Vision Engineer,NumPy,Data Science,Medium
+Computer Vision Engineer,Git,Tools,Medium
+
+NLP Engineer,Python,Programming,High
+NLP Engineer,NLP,AI/ML,High
+NLP Engineer,Deep Learning,AI/ML,High
+NLP Engineer,Transformers,AI/ML,High
+NLP Engineer,BERT,AI/ML,High
+NLP Engineer,PyTorch,Framework,High
+NLP Engineer,TensorFlow,Framework,Medium
+NLP Engineer,Hugging Face,Framework,High
+NLP Engineer,Git,Tools,Medium
+NLP Engineer,SQL,Database,Low
+
+Python Developer,Python,Programming,High
+Python Developer,SQL,Database,Medium
+Python Developer,Git,Tools,High
+Python Developer,Flask,Framework,Medium
+Python Developer,FastAPI,Framework,Medium
+Python Developer,Django,Framework,Medium
+Python Developer,REST API,Backend,High
+Python Developer,PostgreSQL,Database,Medium
+Python Developer,Docker,DevOps,Medium
+Python Developer,Unit Testing,Testing,Medium
+
+Data Engineer,Python,Programming,High
+Data Engineer,SQL,Database,High
+Data Engineer,ETL,Data Engineering,High
+Data Engineer,Data Pipelines,Data Engineering,High
+Data Engineer,Apache Spark,Big Data,High
+Data Engineer,Airflow,Data Engineering,Medium
+Data Engineer,AWS,Cloud,Medium
+Data Engineer,Docker,DevOps,Medium
+Data Engineer,PostgreSQL,Database,Medium
+Data Engineer,Git,Tools,Medium
+
+Software Engineer,Python,Programming,Medium
+Software Engineer,Java,Programming,High
+Software Engineer,C++,Programming,Medium
+Software Engineer,Data Structures,Computer Science,High
+Software Engineer,Algorithms,Computer Science,High
+Software Engineer,Git,Tools,High
+Software Engineer,SQL,Database,Medium
+Software Engineer,REST API,Backend,Medium
+Software Engineer,Docker,DevOps,Medium
+Software Engineer,Unit Testing,Testing,Medium
+
+Backend Developer,Python,Programming,High
+Backend Developer,Java,Programming,High
+Backend Developer,Node.js,Programming,High
+Backend Developer,REST API,Backend,High
+Backend Developer,SQL,Database,High
+Backend Developer,PostgreSQL,Database,Medium
+Backend Developer,MongoDB,Database,Medium
+Backend Developer,Docker,DevOps,Medium
+Backend Developer,Git,Tools,High
+Backend Developer,Microservices,Architecture,Medium
+
+Frontend Developer,HTML,Web Development,High
+Frontend Developer,CSS,Web Development,High
+Frontend Developer,JavaScript,Programming,High
+Frontend Developer,React,Framework,High
+Frontend Developer,TypeScript,Programming,Medium
+Frontend Developer,Git,Tools,High
+Frontend Developer,Responsive Design,Design,High
+Frontend Developer,REST API,Backend,Medium
+Frontend Developer,Tailwind CSS,Framework,Medium
+
+Full Stack Developer,HTML,Web Development,High
+Full Stack Developer,CSS,Web Development,High
+Full Stack Developer,JavaScript,Programming,High
+Full Stack Developer,React,Framework,High
+Full Stack Developer,Node.js,Programming,High
+Full Stack Developer,Express.js,Framework,Medium
+Full Stack Developer,SQL,Database,Medium
+Full Stack Developer,MongoDB,Database,Medium
+Full Stack Developer,REST API,Backend,High
+Full Stack Developer,Git,Tools,High
+
+Java Developer,Java,Programming,High
+Java Developer,Spring Boot,Framework,High
+Java Developer,SQL,Database,High
+Java Developer,REST API,Backend,High
+Java Developer,Microservices,Architecture,Medium
+Java Developer,Git,Tools,High
+Java Developer,Maven,Build Tools,Medium
+Java Developer,Docker,DevOps,Medium
+Java Developer,JUnit,Testing,Medium
+
+C++ Developer,C++,Programming,High
+C++ Developer,Data Structures,Computer Science,High
+C++ Developer,Algorithms,Computer Science,High
+C++ Developer,Object Oriented Programming,Programming,High
+C++ Developer,STL,Programming,High
+C++ Developer,Git,Tools,Medium
+C++ Developer,Multithreading,Programming,Medium
+C++ Developer,Linux,Operating Systems,Medium
+C++ Developer,Debugging,Software Engineering,Medium
+
+React Developer,JavaScript,Programming,High
+React Developer,React,Framework,High
+React Developer,HTML,Web Development,High
+React Developer,CSS,Web Development,High
+React Developer,TypeScript,Programming,Medium
+React Developer,Redux,Framework,Medium
+React Developer,REST API,Backend,Medium
+React Developer,Git,Tools,High
+React Developer,Vite,Build Tools,Medium
+
+Android Developer,Java,Programming,High
+Android Developer,Kotlin,Programming,High
+Android Developer,Android SDK,Mobile Development,High
+Android Developer,Android Studio,Tools,High
+Android Developer,XML,Mobile Development,Medium
+Android Developer,Jetpack Compose,Framework,Medium
+Android Developer,REST API,Backend,Medium
+Android Developer,Firebase,Cloud,Medium
+Android Developer,Git,Tools,High
+
+iOS Developer,Swift,Programming,High
+iOS Developer,SwiftUI,Framework,High
+iOS Developer,Xcode,Tools,High
+iOS Developer,iOS SDK,Mobile Development,High
+iOS Developer,Objective-C,Programming,Low
+iOS Developer,REST API,Backend,Medium
+iOS Developer,Firebase,Cloud,Medium
+iOS Developer,Git,Tools,High
+iOS Developer,App Store Connect,Deployment,Medium
+
+Flutter Developer,Dart,Programming,High
+Flutter Developer,Flutter,Framework,High
+Flutter Developer,Android SDK,Mobile Development,Medium
+Flutter Developer,iOS SDK,Mobile Development,Medium
+Flutter Developer,Firebase,Cloud,Medium
+Flutter Developer,REST API,Backend,High
+Flutter Developer,State Management,Framework,High
+Flutter Developer,Git,Tools,High
+Flutter Developer,Responsive UI,Design,Medium
+
+DevOps Engineer,Linux,Operating Systems,High
+DevOps Engineer,Docker,DevOps,High
+DevOps Engineer,Kubernetes,DevOps,High
+DevOps Engineer,Jenkins,CI/CD,High
+DevOps Engineer,Git,Tools,High
+DevOps Engineer,CI/CD,DevOps,High
+DevOps Engineer,AWS,Cloud,High
+DevOps Engineer,Terraform,Infrastructure,Medium
+DevOps Engineer,Bash,Programming,Medium
+DevOps Engineer,Monitoring,DevOps,Medium
+
+Cloud Engineer,AWS,Cloud,High
+Cloud Engineer,Azure,Cloud,Medium
+Cloud Engineer,GCP,Cloud,Medium
+Cloud Engineer,Docker,DevOps,High
+Cloud Engineer,Kubernetes,DevOps,High
+Cloud Engineer,Linux,Operating Systems,High
+Cloud Engineer,Terraform,Infrastructure,High
+Cloud Engineer,Networking,Networking,Medium
+Cloud Engineer,Cloud Security,Security,Medium
+Cloud Engineer,Git,Tools,Medium
+
+AWS Cloud Engineer,AWS,Cloud,High
+AWS Cloud Engineer,EC2,Cloud,High
+AWS Cloud Engineer,S3,Cloud,High
+AWS Cloud Engineer,Lambda,Cloud,High
+AWS Cloud Engineer,RDS,Database,Medium
+AWS Cloud Engineer,IAM,Security,High
+AWS Cloud Engineer,VPC,Networking,High
+AWS Cloud Engineer,Docker,DevOps,Medium
+AWS Cloud Engineer,Terraform,Infrastructure,Medium
+AWS Cloud Engineer,CloudWatch,Monitoring,Medium
+
+Azure Cloud Engineer,Azure,Cloud,High
+Azure Cloud Engineer,Azure Virtual Machines,Cloud,High
+Azure Cloud Engineer,Azure Functions,Cloud,High
+Azure Cloud Engineer,Azure Storage,Cloud,High
+Azure Cloud Engineer,Azure SQL,Database,Medium
+Azure Cloud Engineer,Microsoft Entra ID,Security,High
+Azure Cloud Engineer,Networking,Networking,Medium
+Azure Cloud Engineer,Docker,DevOps,Medium
+Azure Cloud Engineer,Terraform,Infrastructure,Medium
+Azure Cloud Engineer,PowerShell,Programming,Medium
+
+Google Cloud Engineer,GCP,Cloud,High
+Google Cloud Engineer,Google Compute Engine,Cloud,High
+Google Cloud Engineer,Google Cloud Storage,Cloud,High
+Google Cloud Engineer,BigQuery,Database,High
+Google Cloud Engineer,Cloud Functions,Cloud,High
+Google Cloud Engineer,Kubernetes,DevOps,Medium
+Google Cloud Engineer,Terraform,Infrastructure,Medium
+Google Cloud Engineer,Linux,Operating Systems,Medium
+Google Cloud Engineer,Docker,DevOps,Medium
+
+MLOps Engineer,Python,Programming,High
+MLOps Engineer,Machine Learning,AI/ML,High
+MLOps Engineer,Docker,DevOps,High
+MLOps Engineer,Kubernetes,DevOps,High
+MLOps Engineer,MLflow,MLOps,High
+MLOps Engineer,CI/CD,DevOps,High
+MLOps Engineer,AWS,Cloud,Medium
+MLOps Engineer,Git,Tools,High
+MLOps Engineer,Model Deployment,MLOps,High
+MLOps Engineer,Monitoring,MLOps,Medium
+
+AI Research Scientist,Python,Programming,High
+AI Research Scientist,Machine Learning,AI/ML,High
+AI Research Scientist,Deep Learning,AI/ML,High
+AI Research Scientist,Mathematics,Mathematics,High
+AI Research Scientist,Statistics,Mathematics,High
+AI Research Scientist,PyTorch,Framework,High
+AI Research Scientist,TensorFlow,Framework,Medium
+AI Research Scientist,Neural Networks,AI/ML,High
+AI Research Scientist,Research Methodology,Research,High
+AI Research Scientist,Scientific Computing,Programming,Medium
+
+Generative AI Engineer,Python,Programming,High
+Generative AI Engineer,Generative AI,AI/ML,High
+Generative AI Engineer,Large Language Models,AI/ML,High
+Generative AI Engineer,Transformers,AI/ML,High
+Generative AI Engineer,PyTorch,Framework,High
+Generative AI Engineer,Hugging Face,Framework,High
+Generative AI Engineer,Prompt Engineering,AI/ML,High
+Generative AI Engineer,Vector Databases,Database,Medium
+Generative AI Engineer,RAG,AI/ML,High
+Generative AI Engineer,LangChain,Framework,Medium
+
+Prompt Engineer,Generative AI,AI/ML,High
+Prompt Engineer,Large Language Models,AI/ML,High
+Prompt Engineer,Prompt Engineering,AI/ML,High
+Prompt Engineer,NLP,AI/ML,High
+Prompt Engineer,Python,Programming,Medium
+Prompt Engineer,Transformers,AI/ML,Medium
+Prompt Engineer,LLM Evaluation,AI/ML,High
+Prompt Engineer,AI Safety,AI/ML,Medium
+Prompt Engineer,API Integration,Backend,Medium
+Prompt Engineer,Technical Writing,Communication,Medium
+
+Robotics Engineer,Python,Programming,High
+Robotics Engineer,C++,Programming,High
+Robotics Engineer,Robotics,Engineering,High
+Robotics Engineer,ROS,Robotics,High
+Robotics Engineer,Computer Vision,AI/ML,High
+Robotics Engineer,Control Systems,Engineering,High
+Robotics Engineer,Sensors,Hardware,High
+Robotics Engineer,Embedded Systems,Engineering,Medium
+Robotics Engineer,Linux,Operating Systems,Medium
+Robotics Engineer,Simulation,Engineering,Medium
+
+Embedded Systems Engineer,C,Programming,High
+Embedded Systems Engineer,C++,Programming,High
+Embedded Systems Engineer,Microcontrollers,Embedded Systems,High
+Embedded Systems Engineer,Embedded Systems,Engineering,High
+Embedded Systems Engineer,RTOS,Operating Systems,High
+Embedded Systems Engineer,UART,Communication,Medium
+Embedded Systems Engineer,SPI,Communication,Medium
+Embedded Systems Engineer,I2C,Communication,Medium
+Embedded Systems Engineer,Debugging,Software Engineering,Medium
+Embedded Systems Engineer,Git,Tools,Medium
+
+IoT Engineer,Python,Programming,High
+IoT Engineer,C,Programming,High
+IoT Engineer,IoT,Technology,High
+IoT Engineer,ESP32,Hardware,High
+IoT Engineer,Arduino,Hardware,High
+IoT Engineer,MQTT,Networking,High
+IoT Engineer,Sensors,Hardware,High
+IoT Engineer,Cloud Computing,Cloud,Medium
+IoT Engineer,Embedded Systems,Engineering,High
+IoT Engineer,Networking,Networking,Medium
+
+Cybersecurity Analyst,Cybersecurity,Security,High
+Cybersecurity Analyst,Network Security,Security,High
+Cybersecurity Analyst,Threat Detection,Security,High
+Cybersecurity Analyst,SIEM,Security,High
+Cybersecurity Analyst,Linux,Operating Systems,Medium
+Cybersecurity Analyst,Python,Programming,Medium
+Cybersecurity Analyst,Vulnerability Assessment,Security,High
+Cybersecurity Analyst,Incident Response,Security,High
+Cybersecurity Analyst,Security Monitoring,Security,High
+Cybersecurity Analyst,OWASP,Security,Medium
+
+Cybersecurity Engineer,Cybersecurity,Security,High
+Cybersecurity Engineer,Network Security,Security,High
+Cybersecurity Engineer,Penetration Testing,Security,High
+Cybersecurity Engineer,Firewalls,Networking,High
+Cybersecurity Engineer,Linux,Operating Systems,High
+Cybersecurity Engineer,Python,Programming,Medium
+Cybersecurity Engineer,SIEM,Security,Medium
+Cybersecurity Engineer,Vulnerability Assessment,Security,High
+Cybersecurity Engineer,Encryption,Security,High
+Cybersecurity Engineer,Cloud Security,Security,Medium
+
+Network Engineer,Computer Networks,Networking,High
+Network Engineer,TCP/IP,Networking,High
+Network Engineer,Routing,Networking,High
+Network Engineer,Switching,Networking,High
+Network Engineer,Cisco,Networking,High
+Network Engineer,Firewalls,Security,Medium
+Network Engineer,Linux,Operating Systems,Medium
+Network Engineer,DNS,Networking,High
+Network Engineer,DHCP,Networking,Medium
+Network Engineer,Network Troubleshooting,Networking,High
+
+Database Administrator,SQL,Database,High
+Database Administrator,MySQL,Database,High
+Database Administrator,PostgreSQL,Database,High
+Database Administrator,Oracle,Database,High
+Database Administrator,Database Design,Database,High
+Database Administrator,Database Security,Security,High
+Database Administrator,Backup and Recovery,Database,High
+Database Administrator,Performance Tuning,Database,High
+Database Administrator,Linux,Operating Systems,Medium
+Database Administrator,Python,Programming,Low
+
+QA Engineer,Software Testing,Testing,High
+QA Engineer,Manual Testing,Testing,High
+QA Engineer,Test Cases,Testing,High
+QA Engineer,Regression Testing,Testing,High
+QA Engineer,Functional Testing,Testing,High
+QA Engineer,SQL,Database,Medium
+QA Engineer,API Testing,Testing,High
+QA Engineer,Jira,Tools,Medium
+QA Engineer,Git,Tools,Medium
+QA Engineer,Agile,Project Management,Medium
+
+Automation Test Engineer,Automation Testing,Testing,High
+Automation Test Engineer,Selenium,Testing,High
+Automation Test Engineer,Python,Programming,High
+Automation Test Engineer,Java,Programming,Medium
+Automation Test Engineer,API Testing,Testing,High
+Automation Test Engineer,PyTest,Testing,High
+Automation Test Engineer,Jenkins,CI/CD,Medium
+Automation Test Engineer,Git,Tools,Medium
+Automation Test Engineer,TestNG,Testing,Medium
+Automation Test Engineer,CI/CD,DevOps,Medium
+
+Site Reliability Engineer,Linux,Operating Systems,High
+Site Reliability Engineer,Python,Programming,Medium
+Site Reliability Engineer,Docker,DevOps,High
+Site Reliability Engineer,Kubernetes,DevOps,High
+Site Reliability Engineer,Monitoring,DevOps,High
+Site Reliability Engineer,Prometheus,Monitoring,High
+Site Reliability Engineer,Grafana,Monitoring,High
+Site Reliability Engineer,CI/CD,DevOps,High
+Site Reliability Engineer,AWS,Cloud,Medium
+Site Reliability Engineer,Incident Management,Operations,High
+
+Business Analyst,Requirements Analysis,Business,High
+Business Analyst,SQL,Database,Medium
+Business Analyst,Excel,Tools,High
+Business Analyst,Data Analysis,Data Science,High
+Business Analyst,Power BI,Visualization,Medium
+Business Analyst,Tableau,Visualization,Medium
+Business Analyst,Stakeholder Management,Business,High
+Business Analyst,Documentation,Communication,High
+Business Analyst,Jira,Tools,Medium
+Business Analyst,Agile,Project Management,High
+
+Product Manager,Product Management,Management,High
+Product Manager,Product Strategy,Management,High
+Product Manager,Market Research,Business,High
+Product Manager,Requirements Analysis,Business,High
+Product Manager,Agile,Project Management,High
+Product Manager,Stakeholder Management,Business,High
+Product Manager,Jira,Tools,Medium
+Product Manager,Data Analysis,Data Science,Medium
+Product Manager,Product Roadmap,Management,High
+Product Manager,Communication,Soft Skills,High
+
+Project Manager,Project Management,Management,High
+Project Manager,Agile,Project Management,High
+Project Manager,Scrum,Project Management,High
+Project Manager,Jira,Tools,High
+Project Manager,Leadership,Management,High
+Project Manager,Risk Management,Management,High
+Project Manager,Stakeholder Management,Business,High
+Project Manager,Communication,Soft Skills,High
+Project Manager,MS Project,Tools,Medium
+Project Manager,Documentation,Communication,Medium
+
+Technical Support Engineer,Technical Support,Support,High
+Technical Support Engineer,Troubleshooting,Support,High
+Technical Support Engineer,Linux,Operating Systems,Medium
+Technical Support Engineer,Networking,Networking,High
+Technical Support Engineer,SQL,Database,Medium
+Technical Support Engineer,Python,Programming,Low
+Technical Support Engineer,Ticketing Systems,Tools,High
+Technical Support Engineer,Customer Service,Soft Skills,High
+Technical Support Engineer,Problem Solving,Soft Skills,High
+Technical Support Engineer,Documentation,Communication,Medium
+
+Sales Executive,Sales,Sales,High
+Sales Executive,Lead Generation,Sales,High
+Sales Executive,Customer Relationship Management,Sales,High
+Sales Executive,Negotiation,Soft Skills,High
+Sales Executive,Communication,Soft Skills,High
+Sales Executive,Product Knowledge,Sales,High
+Sales Executive,Market Research,Business,Medium
+Sales Executive,CRM,Tools,High
+Sales Executive,Presentation Skills,Soft Skills,Medium
+Sales Executive,Sales Reporting,Business,Medium
+
+Business Development Executive,Business Development,Business,High
+Business Development Executive,Lead Generation,Sales,High
+Business Development Executive,Client Acquisition,Sales,High
+Business Development Executive,Negotiation,Soft Skills,High
+Business Development Executive,Communication,Soft Skills,High
+Business Development Executive,Market Research,Business,High
+Business Development Executive,CRM,Tools,Medium
+Business Development Executive,Sales Strategy,Sales,High
+Business Development Executive,Relationship Management,Business,High
+Business Development Executive,Presentation Skills,Soft Skills,Medium
+
+Digital Marketing Specialist,Digital Marketing,Marketing,High
+Digital Marketing Specialist,SEO,Marketing,High
+Digital Marketing Specialist,SEM,Marketing,Medium
+Digital Marketing Specialist,Social Media Marketing,Marketing,High
+Digital Marketing Specialist,Google Analytics,Analytics,High
+Digital Marketing Specialist,Content Marketing,Marketing,High
+Digital Marketing Specialist,Email Marketing,Marketing,Medium
+Digital Marketing Specialist,Google Ads,Marketing,High
+Digital Marketing Specialist,Meta Ads,Marketing,Medium
+Digital Marketing Specialist,Marketing Analytics,Analytics,High
+
+Financial Analyst,Financial Analysis,Finance,High
+Financial Analyst,Excel,Tools,High
+Financial Analyst,Financial Modeling,Finance,High
+Financial Analyst,Accounting,Finance,High
+Financial Analyst,SQL,Database,Medium
+Financial Analyst,Power BI,Visualization,Medium
+Financial Analyst,Data Analysis,Data Science,High
+Financial Analyst,Budgeting,Finance,High
+Financial Analyst,Forecasting,Finance,High
+Financial Analyst,Financial Reporting,Finance,High
+
+HR Analyst,Human Resources,HR,High
+HR Analyst,People Analytics,HR,High
+HR Analyst,Excel,Tools,High
+HR Analyst,Data Analysis,Data Science,High
+HR Analyst,Power BI,Visualization,Medium
+HR Analyst,HRIS,HR,High
+HR Analyst,Recruitment,HR,Medium
+HR Analyst,Employee Engagement,HR,Medium
+HR Analyst,Statistics,Mathematics,Medium
+HR Analyst,Communication,Soft Skills,High
+
+UI/UX Designer,UI Design,Design,High
+UI/UX Designer,UX Design,Design,High
+UI/UX Designer,Figma,Design Tools,High
+UI/UX Designer,Wireframing,Design,High
+UI/UX Designer,Prototyping,Design,High
+UI/UX Designer,User Research,Design,High
+UI/UX Designer,Interaction Design,Design,High
+UI/UX Designer,Usability Testing,Design,Medium
+UI/UX Designer,Design Systems,Design,Medium
+UI/UX Designer,Visual Design,Design,High
+
+Content Strategist,Content Strategy,Marketing,High
+Content Strategist,Content Writing,Communication,High
+Content Strategist,SEO,Marketing,High
+Content Strategist,Keyword Research,Marketing,High
+Content Strategist,Market Research,Business,Medium
+Content Strategist,Social Media,Marketing,Medium
+Content Strategist,Google Analytics,Analytics,Medium
+Content Strategist,Copywriting,Communication,High
+Content Strategist,Content Marketing,Marketing,High
+Content Strategist,Editing,Communication,Medium
+
+Operations Analyst,Operations Management,Operations,High
+Operations Analyst,Data Analysis,Data Science,High
+Operations Analyst,Excel,Tools,High
+Operations Analyst,SQL,Database,Medium
+Operations Analyst,Power BI,Visualization,Medium
+Operations Analyst,Process Improvement,Operations,High
+Operations Analyst,Problem Solving,Soft Skills,High
+Operations Analyst,Reporting,Business,High
+Operations Analyst,Data Visualization,Data Science,Medium
+Operations Analyst,Project Management,Management,Medium
